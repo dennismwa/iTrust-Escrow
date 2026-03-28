@@ -1,0 +1,14 @@
+{
+  "name": "Amani Escrow",
+  "short_name": "Amani",
+  "description": "Africa's Most Trusted Escrow Platform",
+  "start_url": "/pages/dashboard/index.php",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/uploads/site/pwa-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/uploads/site/pwa-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
